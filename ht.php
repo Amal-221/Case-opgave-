@@ -18,7 +18,6 @@
                     <li><a href="index.php">Forside</a></li>
                     <li><a href="webshop.php">webshop</a></li>
                     <li><a href="om os.php">om so</a></li>
-                    <li><a href="index.php">Indkøbskurven</a></li>
                     <li><a href="kundeservice.php">Kundeservice</a></li>
                     <li><a href="log ind.php">log ind</a></li>
                 </ul>

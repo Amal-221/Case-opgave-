@@ -11,11 +11,11 @@
 <button type="button" onclick="Send()" value=" log ind"> Send</button>
 
 <br>
-<P>hvis din betaling ikke gennemførte så skrive til vores service medarbejder med e-mail ********@gmail.com
+<P>hvis din betaling ikke gennemførte så skrive til vores service medarbejder med e-mail Farstrup@gmail.com
  du får svar hurtigt som muligt.
 </P>
 
 
 <h3>har du spørgsmål omkring vores virksomheden</h3>
-<p> ring til 45+******** eller skrive til vores e-mail *****@gmail.com</p>
+<p> ring til 45+0000000 eller skrive til vores e-mail Farstrup@gmail.com</p>
 <br>
